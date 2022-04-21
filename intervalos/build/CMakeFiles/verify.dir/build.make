@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/runner/lista-1-GabrielJonatha/intervalos
+CMAKE_SOURCE_DIR = /home/runner/lista-1-GabrielJonatha-1/intervalos
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/runner/lista-1-GabrielJonatha/intervalos/build
+CMAKE_BINARY_DIR = /home/runner/lista-1-GabrielJonatha-1/intervalos/build
 
 # Utility rule file for verify.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/runner/lista-1-GabrielJonatha/intervalos/build
 include CMakeFiles/verify.dir/progress.make
 
 CMakeFiles/verify: program
-	python3 /home/runner/lista-1-GabrielJonatha/intervalos/../scripts/verify-inputs.py ./program
+	python3 /home/runner/lista-1-GabrielJonatha-1/intervalos/../scripts/verify-inputs.py ./program
 
 verify: CMakeFiles/verify
 verify: CMakeFiles/verify.dir/build.make
@@ -71,6 +71,6 @@ CMakeFiles/verify.dir/clean:
 .PHONY : CMakeFiles/verify.dir/clean
 
 CMakeFiles/verify.dir/depend:
-	cd /home/runner/lista-1-GabrielJonatha/intervalos/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/runner/lista-1-GabrielJonatha/intervalos /home/runner/lista-1-GabrielJonatha/intervalos /home/runner/lista-1-GabrielJonatha/intervalos/build /home/runner/lista-1-GabrielJonatha/intervalos/build /home/runner/lista-1-GabrielJonatha/intervalos/build/CMakeFiles/verify.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/runner/lista-1-GabrielJonatha-1/intervalos/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/runner/lista-1-GabrielJonatha-1/intervalos /home/runner/lista-1-GabrielJonatha-1/intervalos /home/runner/lista-1-GabrielJonatha-1/intervalos/build /home/runner/lista-1-GabrielJonatha-1/intervalos/build /home/runner/lista-1-GabrielJonatha-1/intervalos/build/CMakeFiles/verify.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/verify.dir/depend
 

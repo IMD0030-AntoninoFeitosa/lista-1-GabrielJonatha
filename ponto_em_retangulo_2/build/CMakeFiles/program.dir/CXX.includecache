@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/lista-1-GabrielJonatha-1/ponto_em_retangulo_2/src/function.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+function.h
+/home/runner/lista-1-GabrielJonatha-1/ponto_em_retangulo_2/src/function.h
+
+/home/runner/lista-1-GabrielJonatha-1/ponto_em_retangulo_2/src/function.h
+array
+-
+string
+-
+
+/home/runner/lista-1-GabrielJonatha-1/ponto_em_retangulo_2/src/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+function.h
+/home/runner/lista-1-GabrielJonatha-1/ponto_em_retangulo_2/src/function.h
+

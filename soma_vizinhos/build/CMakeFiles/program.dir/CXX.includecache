@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/lista-1-GabrielJonatha-1/soma_vizinhos/src/main.cpp
+iostream
+-
+utility
+-
+iomanip
+-
+vector
+-
+

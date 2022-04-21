@@ -1,4 +1,4 @@
-/home/runner/lista-1-GabrielJonatha/negativos5/build/CMakeFiles/rebuild_cache.dir
-/home/runner/lista-1-GabrielJonatha/negativos5/build/CMakeFiles/program.dir
-/home/runner/lista-1-GabrielJonatha/negativos5/build/CMakeFiles/edit_cache.dir
-/home/runner/lista-1-GabrielJonatha/negativos5/build/CMakeFiles/verify.dir
+/home/runner/lista-1-GabrielJonatha-1/negativos5/build/CMakeFiles/rebuild_cache.dir
+/home/runner/lista-1-GabrielJonatha-1/negativos5/build/CMakeFiles/program.dir
+/home/runner/lista-1-GabrielJonatha-1/negativos5/build/CMakeFiles/edit_cache.dir
+/home/runner/lista-1-GabrielJonatha-1/negativos5/build/CMakeFiles/verify.dir

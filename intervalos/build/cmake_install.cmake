@@ -1,4 +1,4 @@
-# Install script for directory: /home/runner/lista-1-GabrielJonatha/intervalos
+# Install script for directory: /home/runner/lista-1-GabrielJonatha-1/intervalos
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/runner/lista-1-GabrielJonatha/intervalos/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/runner/lista-1-GabrielJonatha-1/intervalos/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

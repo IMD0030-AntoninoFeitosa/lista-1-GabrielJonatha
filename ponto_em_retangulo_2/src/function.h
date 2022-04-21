@@ -2,7 +2,6 @@
 #define FUNCTION_H
 #include <array>
 using std::array;
-
 #include <string>
 using std::string;
 
@@ -15,8 +14,8 @@ struct Ponto {
 };
 
 /// Tipos de localização do ponto no retângulo.
-enum location_t :int { INSIDE=0, BORDER=1, OUTSIDE=2 };
+enum location_t :int { INSIDE=0, BORDER=1, OUTSIDE=2, INVALID =3};
 
-location_t pt_in_rect( const Ponto&, const Ponto&, const Ponto& );
+location_t pt_in_rect( const Ponto &R1, const Ponto &R2, const Ponto &P );
 
 #endif

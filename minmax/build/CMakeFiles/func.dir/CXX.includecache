@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/lista-1-GabrielJonatha-1/minmax/src/function.cpp
+function.h
+/home/runner/lista-1-GabrielJonatha-1/minmax/src/function.h
+iostream
+-
+vector
+-
+iomanip
+-
+
+/home/runner/lista-1-GabrielJonatha-1/minmax/src/function.h
+utility
+-
+
